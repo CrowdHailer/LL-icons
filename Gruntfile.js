@@ -29,9 +29,9 @@ module.exports = function(grunt) {
         options: {
           loadersnippet: "grunticon.loader.js",
           colors: {
-            light: '#ccc',
-            danger: '#ed3921',
-            success: '#8DC63F'
+            light: '#214478',
+            main: '#5E779B',
+            danger: '#FFF'
           }
         }
       }
